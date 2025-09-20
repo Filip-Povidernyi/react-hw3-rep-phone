@@ -1,0 +1,49 @@
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    width: 240px;
+    border: 1px solid #252525;
+    gap: 24px;
+}
+
+.inputBtn {
+    display: flex;
+    flex-direction: column;
+}
+
+.phonebook {
+    width: 600px;
+}
+
+.input {
+    width: 200px;
+    padding: 8px;
+}
+
+.btn {
+    padding: 16px 8px;
+    width: 100px;
+    background-color: rgb(103, 103, 255);
+}
+
+.delBtn {
+    padding: 0px;
+    width: 80px;
+    margin-left: 16px;
+    border-radius: 24px;
+    background-color: rgba(255, 59, 59, 0.744);
+}
+
+.appStyle {
+    flex-direction: "column";
+    display: "flex";
+    justify-content: "center";
+    padding: "60px"
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
