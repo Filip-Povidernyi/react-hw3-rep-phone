@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hw3-rep-phone/static/css/main.35568701.css",
+    "main.js": "/react-hw3-rep-phone/static/js/main.cab3277b.js",
+    "index.html": "/react-hw3-rep-phone/index.html",
+    "main.35568701.css.map": "/react-hw3-rep-phone/static/css/main.35568701.css.map",
+    "main.cab3277b.js.map": "/react-hw3-rep-phone/static/js/main.cab3277b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35568701.css",
+    "static/js/main.cab3277b.js"
+  ]
+}
